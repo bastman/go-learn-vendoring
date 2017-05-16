@@ -11,6 +11,10 @@
             {
                 "import": "github.com/yanatan16/itertools",
                 "version": "afd1891e0c4fc9f9129c7b6bbb22de9e7a652a9b"
+            },
+            {
+                "import": "github.com/doloopwhile/go-itertools",
+                "version": "ac1277f574f2427d8dc4d2175ecefe8b730ba3bf"
             }
         ],
         "local": [],
