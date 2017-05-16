@@ -15,6 +15,10 @@
             {
                 "import": "github.com/doloopwhile/go-itertools",
                 "version": "ac1277f574f2427d8dc4d2175ecefe8b730ba3bf"
+            },
+            {
+                "import": "github.com/chrislusf/glow",
+                "version": "a8a9c0279c909ab49c3fc4523f499cd1ac89251c"
             }
         ],
         "local": [],
