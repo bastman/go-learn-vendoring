@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"gopkg.in/ahmetb/go-linq.v3"
+	"github.com/ahmetb/go-linq"
 )
 
 type Car struct {
