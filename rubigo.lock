@@ -1,0 +1,10 @@
+{
+    "git": [
+        {
+            "import": "github.com/ahmetb/go-linq",
+            "version": "v3.0.0"
+        }
+    ],
+    "local": [],
+    "global": []
+}

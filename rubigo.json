@@ -1,0 +1,15 @@
+{
+    "info": {
+        "name": "go-learn-vendoring"
+    },
+    "packages": {
+        "git": [
+            {
+                "import": "github.com/ahmetb/go-linq",
+                "version": "~3.0.0"
+            }
+        ],
+        "local": [],
+        "global": []
+    }
+}
