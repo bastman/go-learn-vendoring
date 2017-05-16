@@ -7,6 +7,8 @@ simple guide to vendoring in golang. (uses rubigo as dependency manager - which 
 ## A. build this project
     $ rubigo install
     $ rubigo update
+    $ go build linq-example.go
+    $ ./linq-example
 
 
 ## B. create a project from scratch
