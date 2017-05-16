@@ -3,6 +3,10 @@
         {
             "import": "github.com/ahmetb/go-linq",
             "version": "v3.0.0"
+        },
+        {
+            "import": "github.com/yanatan16/itertools",
+            "version": "afd1891e0c4fc9f9129c7b6bbb22de9e7a652a9b"
         }
     ],
     "local": [],
